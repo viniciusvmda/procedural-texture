@@ -1,0 +1,4 @@
+listras(max(soma(min(x, y), max(x, y)), soma(avg(x, x), div(y, y))), sub(mod(soma(y, x), sen(x)), max(avg(x, y), min(x, x))))
+
+0,2,0.04,0.08,0.06,0.02,2.46
+1,2,0.08,0.08,0.08,0.00,0.24
